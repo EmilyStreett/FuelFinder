@@ -1,0 +1,12 @@
+{
+  "regular": {},
+  "midgrade": {},
+  "premium": {},
+  "diesel": {},
+  "latestDate": {
+    "regular": null,
+    "midgrade": null,
+    "premium": null,
+    "diesel": null
+  }
+}

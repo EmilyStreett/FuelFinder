@@ -1,0 +1,8 @@
+  [
+    { "id": 1, "name": "Gas Station 1", "address": "123 Main St", "price": 3.45 },
+    { "id": 2, "name": "Gas Station 2", "address": "456 Elm St", "price": 3.55 },
+    { "id": 3, "name": "Gas Station 3", "address": "789 Oak St", "price": 3.35 },
+    { "id": 4, "name": "Gas Station 4", "address": "321 Pine St", "price": 3.65 },
+    { "id": 5, "name": "Gas Station 5", "address": "654 Maple St", "price": 3.25 },
+    { "id": 6, "name": "Gas Station 6", "address": "987 Cedar St", "price": 3.75 }
+]
